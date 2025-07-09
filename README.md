@@ -56,9 +56,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Authors
 
-    - Arthur Courselle
+   - Arthur Courselle
    -  Eugénie Beauvillain
    -  Flavien Geoffray 
    -  Lucas Duport
-
-::contentReference[oaicite:0]{index=0}
