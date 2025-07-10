@@ -27,9 +27,9 @@ Below is a outline of each exercise:
 
     Exercise 3: [Expected Value of Empirical Risk for OLS]
 
-    Exercise 4: [Classification on a Given Dataset]
+    Exercise 4: [Regression on a Given Dataset]
 
-    Exercise 5: [Regression on a Given Dataset]
+    Exercise 5: [Classification on a Given Dataset]
 
     Exercise 6: [Application of Supervised Learning]
 
