@@ -17,24 +17,9 @@ For the full description of the tasks, objectives, and evaluation criteria, plea
 - **exercice1/** through **exercice7/**  
   Jupyter notebooks for each of the seven exercises.
 
-## Installation
+## Exercises Overview
 
-```bash
-git clone https://github.com/ArthurCourselle/FTML-Project.git
-cd FTML-Project
-pip install -r requirements.txt
-```
-Usage
-
-    Start JupyterLab or Jupyter Notebook:
-
-    jupyter notebook
-
-    Open the corresponding .ipynb file (e.g., exercice1.ipynb) and run the cells in order.
-
-Exercises Overview
-
-Below is a high-level outline of each exercise: 
+Below is a outline of each exercise: 
 
     Exercise 1: [Bayes Estimator and Bayes Risk]
 
@@ -48,7 +33,7 @@ Below is a high-level outline of each exercise:
 
     Exercise 6: [Application of Supervised Learning]
 
-    Exercise 7: [Application of Supervised Learning]
+    Exercise 7: [Application of Unsupervised Learning]
     
 License
 
@@ -56,7 +41,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Authors
 
-   - Arthur Courselle
+   -  Arthur Courselle
    -  Eugénie Beauvillain
    -  Flavien Geoffray 
    -  Lucas Duport
